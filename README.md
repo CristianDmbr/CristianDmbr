@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CristianDmbr
+- 👀 I’m interested in programming and software engineering
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on future projects
